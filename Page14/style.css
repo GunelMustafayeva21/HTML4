@@ -1,0 +1,110 @@
+.container{
+    max-width: 2000px;
+    height: 1000px;
+}
+
+.container1left{
+    float:left;
+    background-color: aqua;
+    width: 25%;
+   text-align: center;
+}
+.container1right{
+    background-color: brown;
+    float: left;
+    width: calc(75% - 40px);
+    margin-left: 40px;
+    text-align: center;
+   
+}
+.cleaner1{
+    clear: both;
+}
+.cleaner3{
+    clear: both;
+}
+.container1{
+    height: 10%;
+    
+}
+.container2{
+    width:100%;
+    background-color: blue;
+    height: 10%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.container3{
+    height: 30%;
+    margin-bottom: -90px;
+}
+.container4{
+    height: 30%;
+}
+.container3left{
+    float: left;
+    background-color: blueviolet;
+    width: calc(50% - 20px);
+    margin-right: 20px;
+    margin-top: 25px;
+    margin-bottom: -10px;
+    text-align: center;
+    
+}
+.container3right{
+    float:left;
+    background-color: chartreuse;
+    width: calc(50% - 20px);
+    margin-left: 20px;
+    margin-top: 25px;
+    margin-bottom: -10px;
+   text-align: center;
+}
+.cleaner2{
+    clear: both;
+}
+.container4left{
+    width: 32%;
+    background-color: deeppink;
+    float: left;
+    margin-right: 18px;
+    margin-top: 40px ;
+    text-align: center;
+    
+  
+}
+.container4middle{
+    width: 33%;
+    background-color: rgb(13, 196, 58);
+    float: left;
+    margin-right: 18px;
+    margin-top: -120px ;
+    text-align: center;
+   
+    
+    
+}
+.container4right{
+    width: 32%;
+    background-color: rgb(208, 230, 19);
+    float: left;
+    margin-top: -360px;
+    text-align: center;
+    
+    
+    
+   
+}
+.cleaner3{
+    clear: both;
+   
+}
+.container5{
+    width: 100%;
+    background-color: darksalmon;
+    height: 10%;
+    text-align: center;
+    
+}

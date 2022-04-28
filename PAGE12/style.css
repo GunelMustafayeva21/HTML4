@@ -1,0 +1,26 @@
+
+.container{
+    text-align: center;
+    padding-top: 250px;
+
+}
+
+h1 i{
+   font-size: 100px;
+}
+
+.bi-facebook{
+   color: #4267B2; }
+.bi-twitter{
+    color: #1D9BF0;
+}  
+
+.bi-linkedin{
+    color: #0e76a8
+}
+.bi-instagram{
+    color:#48cae4;
+}
+.bi-person-circle{
+
+color:#03045e;}
